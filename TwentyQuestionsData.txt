@@ -1,0 +1,25 @@
+false Is it a mammal?
+false Do people commonly keep it as a pet?
+false is it a rodent?
+true a hamster
+false does it like fish?
+true a cat
+true a dog
+false Is it a farm animal?
+true a goat
+false Does it eat meat?
+true a tiger
+true an elephant
+false Is it a kind of bird?
+true a penguin
+false Does it live in the ocean?
+false Does it have tentacles?
+true a squid
+true a shark
+false does it make honey?
+true a bee
+false does it make webs?
+true a spider
+false is it red and black?
+true a ladybug
+true a wasp
