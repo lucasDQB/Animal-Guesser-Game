@@ -1,0 +1,1 @@
+This game will guess what animal you are thinking of! Answer the yes/no questions and see if the computer guesses correct. If it misses, that means the program still didn't learn about that animal. Teach it and try to see if it can guess now.
