@@ -116,7 +116,7 @@ public class Game {
                     break;
                 }
                 else{
-                    System.out.println("NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\nNOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n\n\n\n\nNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n\nWhat were you thinking of?");
+                    System.out.println("NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n\nWhat were you thinking of?");
                     String animal = scanner.nextLine();
                     System.out.println("Please help me learn! What question could I have asked to choose between " + root.getInfo() + " and " + animal + "?");
                     String question = scanner.nextLine();
